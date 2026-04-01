@@ -216,13 +216,3 @@ yield.
 Pipelining the fir filter was able to decrease the critical path, increasing the
 allowable clock speed, while
 the parallelization allows higher throughput with the same clock speed.
-
-## Hardware Implementation Results
-
-| Filter | Area | Clock Frequency | Power Estimation |
-| --- | --- | --- | --- |
-| Basic | | | |
-| Pipelined | | | |
-| Combined | | | |
-
-## Further Analysis and Conclusion
